@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ibragim066/food/issues"
   },
-  "homepage": "https://github.com/Ibragim066/food#readme"
+  "homepage": "https://github.com/Ibragim066/food#readme",
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  }
 }
